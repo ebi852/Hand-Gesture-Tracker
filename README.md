@@ -33,33 +33,29 @@ Collections (deque, built-in)
 
 pip install mediapipe opencv-python
 
-اجرا / Usage
 
-برای اجرای هر پروژه، اسکریپت مربوطه را در محیط پایتون اجرا کنید:
-
-python thumb_tracker.py
-python scroll_with_middle_finger.py
-python index_vs_thumb.py
-
-Future Plans
-
+*Future Plans
 افزودن تشخیص حالات دست (شنای باز/بسته)
 
 پیاده‌سازی کنترل موس با حرکات دست
 
 پروژه‌های بیشتر در حوزه رابط‌های تعاملی
 
-Repository Name Suggestion
+*Repository Name Suggestion
 
 hand-gesture-suite
 
-English Version
+
+
+*English Version
 
 Hand Gesture Tracker
 
 A simple and practical collection of Python projects for detecting and tracking hand gestures using OpenCV and Mediapipe.
 
-Projects
+
+
+*Projects
 
 Thumb Tracker:Accurately detects the thumb tip position in a live webcam feed and visually highlights it.
 
@@ -67,7 +63,10 @@ Scroll with Middle Finger:Scrolls the screen up and down based on the vertical m
 
 Index vs Thumb Movement:Compares the relative vertical position of the index finger to the thumb and displays the movement direction.
 
-Tools
+
+
+
+*Tools
 
 Python 3.x
 
@@ -83,21 +82,18 @@ Subprocess (built-in)
 
 Collections (deque, built-in)
 
-Installation
+
+
+
+*Installation
 
 Make sure Python and pip are installed, then install dependencies:
 
 pip install mediapipe opencv-python
 
-Usage
 
-Run the individual scripts in your Python environment:
 
-python thumb_tracker.py
-python scroll_with_middle_finger.py
-python index_vs_thumb.py
-
-Future Plans
+*Future Plans
 
 Add hand pose recognition (open/closed states)
 
