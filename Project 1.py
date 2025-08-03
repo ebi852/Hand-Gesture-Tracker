@@ -6,7 +6,7 @@ import re
 
 
 
-
+# Note: This suite is tested on Linux only. It is not guaranteed to work on Windows or macOS.
 
 
 
