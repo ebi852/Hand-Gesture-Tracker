@@ -5,7 +5,8 @@ import cv2
 from collections import deque
 import mediapipe as mp
 
-
+#Note: This suite is tested on Linux only. It is not guaranteed to work on Windows or macOS.
+#Known issues: Mouse movement and clicking are currently unreliable; gesture-based cursor control and click simulation may not work accurately.
 
 
 
