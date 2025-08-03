@@ -5,7 +5,7 @@ import subprocess
 import re
 
 
-# Known issues: Mouse movement and clicking are currently unreliable; gesture-based cursor control and click simulation may not work accurately.
+
 
 
 
