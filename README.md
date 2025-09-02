@@ -22,9 +22,7 @@ Note: This suite is tested on Linux only. It is not guaranteed to work on Window
   Index vs Thumb Movement:Compares the relative vertical position of the index finger to the thumb and displays the movement direction.
 
 - **تغییر موس و قابلیت کلیک کردن (Mouse Control & Clicking):**  
-
 این نسخه امکان کنترل مکان‌نما (Mouse Cursor) و انجام کلیک را فراهم می‌کند.  
-
 Mouse Control & Clicking**: Allows controlling the cursor position and performing mouse clicks.
 
 
